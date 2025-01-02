@@ -22,3 +22,5 @@ My CPU is intel-i7-11th, GPU is NVIDIA GeForce RTX 3060, Size of memory is 40GB,
 The content of dataset is from coco dataset, but I added some photos which was taken by myself.
 
 The ratio of train and test datas is from added photos is 7:3.
+
+You have to put your train datas(including label files) and test datas in a same direction.
