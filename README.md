@@ -24,3 +24,6 @@ The content of dataset is from coco dataset, but I added some photos which was t
 The ratio of train and test datas is from added photos is 7:3.
 
 You have to put your train datas(including label files) and test datas in a same direction.
+
+## Process
+
