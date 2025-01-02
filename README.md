@@ -18,3 +18,7 @@ You can find pretrained-weight files on yolov10 website, please download pretrai
 ### Computer hardware
 My CPU is intel-i7-11th, GPU is NVIDIA GeForce RTX 3060, Size of memory is 40GB, P.S this project needs 40GB at least or it will crush, I tried it.
 
+## dataset
+The content of dataset is from coco dataset, but I added some photos which was taken by myself.
+
+The ratio of train and test datas is from added photos is 7:3.
