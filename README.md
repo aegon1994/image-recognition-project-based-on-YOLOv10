@@ -9,6 +9,11 @@ for yolov10, please check on the [yolov10](https://github.com/THU-MIG/yolov10/tr
 
 ### photo dataset
 please go to [coco](https://cocodataset.org/#download) datset and then download Train/Val/Test images and Train/Val annotations(by click right button and choose open thelink at new page).
-you can find coco.yaml at ...\yolov10\ultralytics\cfg\datasets\coco.yaml, it is important because your model learn and predict photos by coco.yaml.
 
+You can find coco.yaml at ...\yolov10\ultralytics\cfg\datasets\coco.yaml, it is important because your model learn and predict photos by coco.yaml.
 
+### Pretrained-weight
+You can find pretrained-weight files on yolov10 website, please download pretrained-weight files on yolov10 website.
+
+### Computer hardware
+my CPU is intel-i7-11th, GPU is NVIDIA GeForce RTX 3060, Size of memory is 40GB, P.S this project needs 40GB at least or it will crush, I tried it.
