@@ -9,4 +9,6 @@ for yolov10, please check on the [yolov10](https://github.com/THU-MIG/yolov10/tr
 
 ### photo dataset
 please go to [coco](https://cocodataset.org/#download) datset and then download Train/Val/Test images and Train/Val annotations(by click right button and choose open thelink at new page).
+you can find coco.yaml at ...\yolov10\ultralytics\cfg\datasets\coco.yaml, it is important because your model learn and predict photos by coco.yaml.
+
 
