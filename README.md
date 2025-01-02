@@ -7,4 +7,5 @@ In readme, it will present the process and results of this image recognition too
 ## How to begin
 for yolov10, please check on the [yolov10](https://github.com/THU-MIG/yolov10/tree/main) 
 
-for
+### photo dataset
+please go to [coco](https://cocodataset.org/#download) 
