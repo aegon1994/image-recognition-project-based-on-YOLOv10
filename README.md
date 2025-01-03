@@ -41,7 +41,12 @@ you can find the code of training and prediction on yolov10 website
 <img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/process%20of%20training.png?raw=true">
 
 The confusion matrix(normalized):
+Left of this graph is predicted result, Button of the graph is true result, if a color of square was more deeper, the pair would happen frequently. 
 <img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/confusion_matrix_normalized.png?raw=true">
+you could the color of square of diagonal is deeper than most of area. It means the correct rate of this model is not so bad, but color of button is deeper.
+It means there are so many object couldn't detected by this model.
+
+
 
 
 
