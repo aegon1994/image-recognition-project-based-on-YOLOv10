@@ -26,4 +26,14 @@ The ratio of train and test datas is from added photos is 7:3.
 You have to put your train datas(including label files) and test datas in a same direction.
 
 ## Process
+### Preprocessing
+Make new label files of photos by annotations->Ensure all images have corresponding labels->Ensure data in labels where the class_id is in the number of classes
+-> change photos size and data about size in labels(if your size of memory is enough, skip it)->make formation of new labels is the same as old->correct wrong class_id of data in labels
+
+If you had your own added photos, you could create your labels of your new photos by [labelimg](https://github.com/HumanSignal/labelImg/blob/master/README.rst).
+Other steps is the same as above.
+
+
+
+
 
