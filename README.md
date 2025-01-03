@@ -49,9 +49,14 @@ It means there are so many object couldn't detected by this model.
 The F1-confidence curve:
 In this graph,F1-score is on y-dimension, confidence is on x-dimension, the blue line is the F1 curve line of this model.
 <img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/F1_curve.png?raw=true">
-You could see this blue line, when F1 score is high, confidence is low. When F1 is low, confidence is high. It means when model recognized a object is definitely one class, the answer is often wrong.
+You could see this blue line, when F1 score is high, confidence is low. When F1 is low, confidence is high. It means when model recognized a object is definitely one class, the performance is not good.
 It is an unusual result. It will be the future work. 
 
 The Precision-confidence curve:
 In this graph,Precision is on y-dimension, confidence is on x-dimension, the blue line is the P curve line of this model.
 <img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/P_curve.png?raw=true">
+In this graph, when confidence is low, precision raise very quickly. When confidence is high, precision is stable.
+It is a ideal state, it means when model think results is right, it would be right.
+
+The Recall-confidence curve:
+In this graph,Recall is on y-dimension, confidence is on x-dimension, the blue line is the R curve line of this model.
