@@ -52,6 +52,6 @@ In this graph,F1-score is on y-dimension, confidence is on x-dimension, the blue
 You could see this blue line, when F1 score is high, confidence is low. When F1 is low, confidence is high. It means when model recognized a object is definitely one class, the answer is often wrong.
 It is an unusual result. It will be the future work. 
 
-
-
-
+The Precision-confidence curve:
+In this graph,Precision is on y-dimension, confidence is on x-dimension, the blue line is the P curve line of this model.
+<img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/P_curve.png?raw=true">
