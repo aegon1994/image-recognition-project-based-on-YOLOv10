@@ -36,6 +36,8 @@ Other steps is the same as above.
 ### Train and predict process
 you can find the code of training and prediction on yolov10 website
 
-In this part, I would 
+## Results
+### The results of training
+
 
 
