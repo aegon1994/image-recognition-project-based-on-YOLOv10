@@ -33,7 +33,9 @@ Make new label files of photos by annotations->Ensure all images have correspond
 If you had your own added photos, you could create your labels of your new photos by [labelimg](https://github.com/HumanSignal/labelImg/blob/master/README.rst).
 Other steps is the same as above.
 
+### Train and predict process
+you can find the code of training and prediction on yolov10 website
 
-
+In this part, I would 
 
 
