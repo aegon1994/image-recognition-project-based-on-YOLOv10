@@ -46,7 +46,8 @@ Left of this graph is predicted result, Button of the graph is true result, if a
 you could the color of square of diagonal is deeper than most of area. It means the correct rate of this model is not so bad, but color of button is deeper.
 It means there are so many object couldn't detected by this model.
 
-
+The F1-confidence curve
+<img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/F1_curve.png?raw=true">
 
 
 
