@@ -38,6 +38,6 @@ you can find the code of training and prediction on yolov10 website
 
 ## Results
 ### The results of training
-
+<img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/process%20of%20training.png?raw=true">
 
 
