@@ -46,8 +46,12 @@ Left of this graph is predicted result, Button of the graph is true result, if a
 you could the color of square of diagonal is deeper than most of area. It means the correct rate of this model is not so bad, but color of button is deeper.
 It means there are so many object couldn't detected by this model.
 
-The F1-confidence curve
+The F1-confidence curve:
+In this graph,F1-score is on y-dimension, confidence is on x-dimension, the blue line is the F1 curve line of this model.
 <img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/F1_curve.png?raw=true">
+You could see this blue line, when F1 score is high, confidence is low. When F1 is low, confidence is high. It means when model recognized a object is definitely one class, the answer is often wrong.
+It is an unusual result. It will be the future work. 
+
 
 
 
