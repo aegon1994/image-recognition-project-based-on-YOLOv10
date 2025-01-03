@@ -65,4 +65,6 @@ In this graph,Recall is on y-dimension, confidence is on x-dimension, the blue l
 In this graph, when confidence is low, recall is high. When confidence is high, recall decrease.
 It is a normal state, it means when model can't make sure the answer, it pefer its first choice. When there is a choice with high cofidence, it only choose it.
 
-
+The Precision-Recall curve:
+In this graph,Precision is on y-dimension, Recall is on x-dimension, the blue line is the PR curve line of this model.
+<img src="https://github.com/aegon1994/image-recognition-project-based-on-YOLOv10/blob/main/readphotosimages/readme%20photos/PR_curve.png?raw=true">
